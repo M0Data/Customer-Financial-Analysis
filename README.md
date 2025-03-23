@@ -3,6 +3,9 @@
 ## Overview
 Analyzing the Customer Financial Dataset revealed a surprising financial landscape—one where debt outweighs income, expired credit cards present risks, and financial growth opportunities remain untapped. This analysis provides insights into customer demographics, credit usage, financial risks, and strategic opportunities for financial institutions.
 
+![Customer Financial Analysis](https://github.com/user-attachments/assets/38256d74-f63a-4cce-bc9b-bfae6c34068d)
+
+
 ## Key Questions Explored
 - Who are our customers? (Demographics: age, income, financial status)
 - How do they use credit? (Responsible financial behavior vs. reckless spending)
